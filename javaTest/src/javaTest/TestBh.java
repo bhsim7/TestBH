@@ -7,6 +7,7 @@ public class TestBh {
 		System.out.println("Java Test");
 		System.out.println("This is bhsim7");   //2021-01-19
 		System.out.println("This is bhsim7iae");   //2021-01-19
+		System.out.println("This is bhsim7 Add sys out");
 	}
 
 }
